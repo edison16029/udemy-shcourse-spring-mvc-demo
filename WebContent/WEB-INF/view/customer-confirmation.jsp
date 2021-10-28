@@ -16,5 +16,8 @@
 	 The postal code is confirmed : ${customer.postalCode}
 	<br><br>
 	
+	The course code is confirmed : ${customer.courseCode}
+	<br><br>
+	
 </body>
 </html>
